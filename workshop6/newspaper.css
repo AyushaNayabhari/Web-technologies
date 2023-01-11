@@ -1,0 +1,23 @@
+header,footer{
+    background-color: black;
+    text-align: center;
+    height: 50px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#content{
+    background-color: aqua;
+    flex: 5;
+
+
+}
+#side{
+    background-color: blue;
+    flex: 2;
+}
+section{
+    display: flex;
+    height: 500px;
+}
